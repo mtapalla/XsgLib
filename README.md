@@ -27,6 +27,7 @@ Console.WriteLine(Mxg.IDN.Serial);
 ```
 
 **Upload and Play W-CDMA waveform**
+
 This example shows how one would upload a waveform onto an MXG and then play it
 ``` C#
 MXG Mxg = new MXG();
